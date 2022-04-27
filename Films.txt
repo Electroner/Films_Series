@@ -6,7 +6,6 @@ Pulp Fiction
 El castillo en el cielo
 Los falsificadores
 There will be blood
-El contador de cartas
 LA GRAN AVENTURA DE MORTADELO Y FILEMON
 9th April
 -Ghostland
@@ -453,3 +452,4 @@ La tormenta perfecta
 Sin City: ciudad del pecado
 Wild Wild West
 Atrapame Si Puedes
+El contador de cartas
