@@ -9,7 +9,7 @@ LA GRAN AVENTURA DE MORTADELO Y FILEMON
 9th April
 Gran Torino
 Nobody
-Los magnificos 7
+
 
 VISTAS:
 
@@ -458,3 +458,4 @@ Watchmen
 The Punisher
 The Equalizer
 The Equalizer 2
+Los magnificos 7
