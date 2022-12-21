@@ -13,7 +13,6 @@ El arte de Robar
 Glass Onion: A Knives Out Mystery
 Oppenheimer
 Coherence
-Legend
 
 VISTAS:
 
@@ -474,3 +473,4 @@ La memoria de un asesino
 Hermano Oso
 Colegas en el bosque
 Caperucita Roja (Broma)
+Legend
