@@ -10,7 +10,6 @@ LA GRAN AVENTURA DE MORTADELO Y FILEMON
 Nobody
 Street Kings
 El arte de Robar
-Glass Onion: A Knives Out Mystery
 Oppenheimer
 Coherence
 Sin novedad en el frente (All Quiet on the Western Front)
@@ -475,3 +474,4 @@ Hermano Oso
 Colegas en el bosque
 Caperucita Roja (Broma)
 Legend
+Glass Onion: A Knives Out Mystery
