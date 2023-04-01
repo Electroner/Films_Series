@@ -41,6 +41,7 @@ Black Widow
 Shang-Chi and the Legend of the Ten Rings
 Eternals
 Spider-Man: No Way Home
+Wakanda Forever
 En busca del arca perdida
 Indiana Jones y el templo maldito
 Indiana Jones y la última cruzada
@@ -475,3 +476,7 @@ Legend
 Glass Onion: A Knives Out Mystery
 Nobody
 Sin novedad en el frente (All Quiet on the Western Front)
+Enola Holmes
+Enola Holmes 2
+El protector
+Ghost Rider (El Motorista Fantasma)
