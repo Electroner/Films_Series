@@ -5,7 +5,6 @@ Pulp Fiction
 El castillo en el cielo
 Los falsificadores
 There will be blood
-LA GRAN AVENTURA DE MORTADELO Y FILEMON
 9th April
 Street Kings
 El arte de Robar
@@ -13,6 +12,7 @@ Oppenheimer
 Coherence
 To Me, The One Who Loved You
 To Every You I've Loved Before
+WarDogs
 
 VISTAS:
 
@@ -486,3 +486,4 @@ Bullet Train (El tren Bala)
 Space Chimps
 Air (2015)
 Mortal Engines
+La Gran Aventura de Mortadelo y Filemon
