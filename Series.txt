@@ -13,9 +13,7 @@ Terror In Resonance
 
 SIGUIENDO:
 
-Zom 100: Bucket List of the Dead: Temporada 1-13
 The Witcher : Temporada 3-1
-Final Space : Temporada 3-1
 Dr. Stone : Temporada 3-14
 Rick & Morty : Temporada 7-3
 
@@ -35,6 +33,7 @@ Vinland Saga : Temporada 3-1
 Kimetsu no Yaiba: Temporada 4-1
 Gen V: Temporada 2-1
 Big Mouth : Temporada 8-1
+Zom 100: Bucket List of the Dead: Temporada 1-13
 
 TERMINADAS:
 
@@ -75,3 +74,4 @@ Mindhunter (T3 Cancelada)
 Key and Locke
 Kabaneri of the iron fortress
 Monster (Castellano)
+Final Space
